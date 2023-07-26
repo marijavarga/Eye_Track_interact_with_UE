@@ -3,8 +3,7 @@
 A plan is to upgrade this project. 
 So far I implemented pose estimation of irises using MediaPipe and transfering to Unreal Engine. 
 
-Next step is to implement a visual keyboard, and based on eye position choose letters. 
-
+Next step is to implement a visual keyboard, and based on eye position choose letters and later syllables. 
 
 
 
